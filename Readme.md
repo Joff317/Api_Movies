@@ -5,9 +5,7 @@ Afficher une liste de films
 Peut-être que tu as déjà entendu parler de l'API The Open Movie Database. Celle-ci permet d'afficher des informations sur des films recherchés. Nous allons créer une page qui permettra d'afficher la liste de films correspondants à la recherche de l'utilisateur. On affichera également les informations sur un film si l'utilisateur clique dessus.
 
 ## Le projet
-Pour commencer, il faudra t'inscrire sur leur API afin de récupérer une clef de développement. Tu pourras t'inscrire ici! Ne perds surtout pas ton token, il est très important ! Effectivement, les développeurs d'API ont régulièrement besoin de tracker comment tu te serviras de leur API afin d'améliorer leur service, ou de vérifier si tu n'en fais pas une utilisation malveillante ou encore si tu n'en abuses pas.
-
-Ensuite, il te faudra créer un formulaire où l'utilisateur pourra entrer le nom du film qu'il cherche. Au submit, tu iras taper dans l'API pour récupérer la liste des films contenant les mots clefs que l'utilisateur a cherchée. Tu devras par la suite créer une fonction pour afficher la liste des films proposés.
+Il te faudra créer un formulaire où l'utilisateur pourra entrer le nom du film qu'il cherche. Au submit, tu iras taper dans l'API pour récupérer la liste des films contenant les mots clefs que l'utilisateur a cherchée. Tu devras par la suite créer une fonction pour afficher la liste des films proposés.
 
 Tu devras montrer :
 
